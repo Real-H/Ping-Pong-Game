@@ -1,0 +1,140 @@
+Usama : 1
+Usama : 2
+Hassaan : 1
+Hassaan : 2
+Usama : 3
+Hassaan : 3
+Usama : 4
+Usama : 5
+GAME OVER !! 
+Time taken: 66467 ms 
+Usama is the WINNER 
+============== Game Ended =============== 
+Hassaan : 1
+Hassaan : 2
+Hassaan : 3
+Usama : 1
+Hassaan : 4
+Hassaan : 5
+GAME OVER !! 
+Time taken: 80783 ms 
+Hassaan is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Hassaan : 1
+Hassaan : 2
+Hassaan : 3
+Hassaan : 4
+Hassaan : 5
+GAME OVER !! 
+Time taken: 37367 ms 
+Hassaan is the WINNER 
+============== Game Ended =============== 
+Emaan : 1
+Hassaan : 1
+Hassaan : 2
+Hassaan : 3
+Hassaan : 4
+Hassaan : 5
+GAME OVER !! 
+Time taken: 45600 ms 
+Hassaan is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Test 1 : 1
+Test 2 : 1
+Test 1 : 2
+Test 2 : 2
+Test 2 : 3
+Test 2 : 4
+Test 1 : 3
+Test 2 : 5
+GAME OVER !! 
+Time taken: 75517 ms 
+Test 2 is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 58684 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Go : 1
+Lets : 1
+Lets : 2
+Go : 2
+Lets : 3
+Go : 3
+Go : 4
+Go : 5
+GAME OVER !! 
+Time taken: 34109 ms 
+Go is the WINNER 
+============== Game Ended =============== 
+Atif : 1
+Hamza : 1
+Atif : 2
+Atif : 3
+Atif : 4
+Atif : 5
+GAME OVER !! 
+Time taken: 82560 ms 
+Atif is the WINNER 
+============== Game Ended =============== 
+Usama : 1
+Usama : 2
+Hassaan : 1
+Usama : 3
+Hassaan : 2
+Hassaan : 3
+Hassaan : 4
+Hassaan : 5
+GAME OVER !! 
+Time taken: 117934 ms 
+Hassaan is the WINNER 
+============== Game Ended =============== 
+Player 1 : 1
+Player 1 : 2
+Player 1 : 3
+Player 1 : 4
+Player 1 : 5
+GAME OVER !! 
+Time taken: 49235 ms 
+Player 1 is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 48984 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Player 2 : 1
+Player 2 : 2
+Player 1 : 1
+Player 1 : 2
+Player 1 : 3
+Player 1 : 4
+Player 1 : 5
+GAME OVER !! 
+Time taken: 26783 ms 
+Player 1 is the WINNER 
+============== Game Ended =============== 
+Player 1 : 1Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 50450 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
